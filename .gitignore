@@ -1,0 +1,9 @@
+# Local settings with your database password — never commit
+inc/config.php
+
+# Logs and OS/editor files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
